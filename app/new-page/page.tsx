@@ -13,7 +13,7 @@ export default function NewPage() {
       <ServicesSection />
       <TestimonialsSection />
       <CtaSection />
-      {/*<FooterSection />*/}
+      <FooterSection />
     </div>
   );
 }
